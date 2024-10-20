@@ -50,6 +50,7 @@ Another challenge I had was with interanl links in the assignment where we had t
  <h3 id="scroll">Basic Web Design</h3>
 ```
 How it turned out: [ Recreating Tougher Web Design](https://app.pickcode.io/project/cm2dm4vgo1gu1koywia4y19en)
+
 It took me a while to learn, but I've learned it now! I know how to create internal links and how to manage them now. 
 
 ### Challenge 2
