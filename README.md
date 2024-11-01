@@ -63,6 +63,6 @@ Socializing and asking for help are the last things I ever want to do since I ge
 The things I really need to remember are: 
 * Links get really confusing sometimes, so you have to pay really close attention to them. Links have `<a>` tags and `href` attributes that show where the link is going, and then certain kinds of attributes like `#scroll` that make the link do different things than just go to the provided URL.
 * Take NOTES whenever you can and when you are learning something new because it will help you so much.
-* ASK TEACHERS FOR HELP !! DOn't be like me ! ( cant learn all this by youurself and the most helpful person to you will be the teachers)
+* ASK TEACHERS FOR HELP !! Don't be like me ! ( cant learn all this by youurself and the most helpful person to you will be the teachers)
 
 
