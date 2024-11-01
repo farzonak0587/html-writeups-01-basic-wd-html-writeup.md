@@ -56,10 +56,13 @@ It took me a while to learn, but I've learned it now! I know how to create inter
 ### Challenge 2
 This is probably my worst habit of all time, but I ALWAYS forget the most important things to do. For this class, I need to take notes because it will really benefit me and help me in the future. When I was doing my FCC lessons, the thought of taking notes didn't even come to mind until my teacher reminded me. Since I didn't take notes at all, I kept forgetting stuff and not being able to do this. If I had notes, it would have been so much faster and easier because I would have already known what to do. I created an extra step for myself. Whenver I didn't remember stuff, I went back to the FCC lessons and checked on what to do again. I always say I will do it later, but I end up forgetting. At the last minute possible, I decided to update all my notes because I was struggling so much that I couldn't take it anymore. Now I have good notes, and I dont have to go back to the FCC lessons to check on what to do. I really need to start remembering to take notes while I'm learning.
 
+### Challenge 3
+Socializing and asking for help are the last things I ever want to do since I get anxious easily, I stop talking and just want to figure it out alone, and believe I think I can handle things on my own when I can't. It's far worse for me when I don't ask for help since I tend to give up after getting stuck on something for a long period. I had a lot of this experience with HTML, but I knew it would impact my grade, so I had to keep trying. Despite being stuck, I did not ask for help. It's important that I start interacting with my teacher and classmates. 
+
 ### Takeaways
 The things I really need to remember are: 
-* Links get really confusing sometimes, so you have to pay really close attention to them.
+* Links get really confusing sometimes, so you have to pay really close attention to them. Links have `<a>` tags and `href` attributes that show where the link is going, and then certain kinds of attributes like `#scroll` that make the link do different things than just go to the provided URL.
 * Take NOTES whenever you can and when you are learning something new because it will help you so much.
-* ASK TEACHERS FOR HELP !! ( cant learn all this by youurself and the most helpful person to you will be the teachers)
+* ASK TEACHERS FOR HELP !! DOn't be like me ! ( cant learn all this by youurself and the most helpful person to you will be the teachers)
 
 
